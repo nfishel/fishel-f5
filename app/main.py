@@ -19,6 +19,7 @@ def get_mode():
 
 
 if __name__ == '__main__':
+    #testing
     app.run(host='0.0.0.0', port=8080)
 from flask import Flask
 from dotenv import load_dotenv
